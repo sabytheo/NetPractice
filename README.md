@@ -7,13 +7,7 @@ NetPractice is a general IT project in the 42 curriculum designed to introduce t
 
 The project utilizes a training interface where the user acts as a network administrator. Through a series of 10 levels, the user must manually configure:
 
-IP addresses
-
-Subnet masks
-
-Default gateways
-
-Routing tables
+IP addresses , Subnet masks , Default gateway , Routing tables.
 
 ## **Instructions**
 
@@ -74,11 +68,11 @@ Layer 2 (Data Link Layer): Where Switches operate (dealing with local delivery).
 
 Layer 3 (Network Layer): Where Routers, IP addresses, and Subnets operate (dealing with logical addressing and path determination).
 
-### References & Tools
+### **References & Tools**
 
 IP Calculation: [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) - Used to verify CIDR ranges.
 
-### AI Usage Disclosure
+### **AI Usage Disclosure**
 
 In accordance with the project requirements, here is how AI tools were utilized during the development of this project:
 
